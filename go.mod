@@ -1,0 +1,3 @@
+module HW5_RESTFULL_API.GO
+
+go 1.22.0
